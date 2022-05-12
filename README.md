@@ -255,7 +255,7 @@ sudo docker stop id
 
 ### Deploying on VPS Using docker-compose
 
-**NOTE**: If you want to use port other than 80, change it in [docker-compose.yml](https://github.com/anasty17/mirror-leech-telegram-bot/blob/master/docker-compose.yml) also.
+**NOTE**: If you want to use port other than 80, change it in [docker-compose.yml](https://github.com/Abdurakhmonov77/mirror-leech-telegram-bot/blob/master/docker-compose.yml) also.
 
 ```
 sudo apt install docker-compose
